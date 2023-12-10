@@ -1,0 +1,19 @@
+{
+  "name": "flappy-bird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flappy.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicajabes/flappyBird.git"
+  },
+  "author": "Jéssica Jabes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicajabes/flappyBird/issues"
+  },
+  "homepage": "https://github.com/jessicajabes/flappyBird#readme"
+}
